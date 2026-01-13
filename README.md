@@ -26,7 +26,7 @@ docs/problem-statement.md
 
 ---
 
-## 🧠 Allocation Logic
+## 🧠 Allocation Logic.
 
 1. Confirmed berths are allocated based on predefined priority order
 2. RAC tickets are allocated when confirmed seats are full
