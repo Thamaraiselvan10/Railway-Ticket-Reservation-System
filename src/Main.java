@@ -1,4 +1,6 @@
 import java.util.Scanner;
+
+// handling passengers
 class passenger{
     int id;
     String name;
@@ -11,7 +13,7 @@ class passenger{
         this.berth=berth;
     }
 }
-
+// ticket booking system
 class TicketBookingSystem{
     public static void cancelingTickets(){
 
